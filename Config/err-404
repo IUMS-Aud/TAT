@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1" >
+        <meta name="HandheldFriendly" content="true">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>کلینیک شنوایی و تعادل دانش</title>
+        <link href="/Images/Icon/Danesh-Clinic-icon.ico" rel="Danesh Clinic icon" />
+        <link rel="stylesheet" href="/Styles/base-styles.css">
+        <link rel="stylesheet" href="/Styles/web-icon-lib.css">
+        <style>
+			body{background-color:#efefef;}
+            div {display: block; position: absolute; width: 100%; border-bottom: 3px solid #7a7879; text-align: center; top:50%; margin-top: -200px;}
+            div img {margin-bottom: -11px; width: 90%; max-width: 300px; max-height:194px; }
+            div span {display: block; position: absolute; width: 100%; right: 0px; padding-top:20px; font-size: 11pt; color: #7a7879; line-height: 26pt;}
+            a {color:#7a7879;   transition: all 300ms; -webkit-transition: all 300ms; -moz-transition: all 300ms; -o-transition: all 300ms; -ms-transition: all 300ms; }
+            a:hover { color:#ffcb05;}
+        </style>
+
+    </head>
+    <body>
+        <div>
+            <img src="/Images/Icon/404.jpg" alt=""><br>
+            <span> فکر کنم آدرسو اشتباه اومدی <i class="fal fa-smile-wink" style="font-size: 16pt;"></i> <br> <a href="/">اینجا کلیک کن تا از اول شروع کنیم </a></span>
+        </div>
+    </body>
+</html>

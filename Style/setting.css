@@ -1,0 +1,67 @@
+.forms_box {
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+}
+    .forms_box .text_inp { width: 90%;}
+    .login_note {text-align: center; margin-bottom: 10px;}
+
+.register_note {width: 60%; margin: 0 auto; margin-top: 40px; border-bottom: 1px solid #d9dadd;
+}
+    .register_note p {padding-right: 30px;  padding-left: 30px;}
+
+#sms_result { text-align: center;   font-size: 7.5pt;     color: #6e6e6e; padding-right: 35px; margin-top: -5px; padding-bottom: 5px;  }
+
+
+#inline_form_btn {width: 80%; margin-right: 10%; margin-top: 20px; margin-bottom: 20px;  }
+#register_lvl2 , #register_lvl3 {display: none;}
+
+#logo_img {text-align: center; font-size: 10pt; }
+    #logo_img img { height: 120px;}
+#slogan {font-family: BTitr, ISans, Tahoma; color: #942525; font-size: 24pt;}
+
+
+.rate_ico {
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+}
+    .rate_ico img{
+        width: 30px;
+        margin-right: 6%;
+        margin-left: 6%;
+    }
+/* ------------------------------------------------------------------------------------------- */
+
+@media screen and (min-width: 1024px) {
+
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px){
+
+    .register_note {width: 80%;}
+}
+
+@media screen and (max-width: 479px){
+    .forms_box { width: 85%; }
+    .forms_box .text_inp { width: 80%;}
+
+    .register_note {width: 95%; font-size: 8pt;}
+
+}
+@media screen and (max-width: 320px){
+
+
+}
+
+
