@@ -1,11 +1,12 @@
 # AVAT
 
-AVAT is a program designed for advanced auditory-visual attention training, aimed at enhancing attention and cognitive processes in individuals with chronic tinnitus.
+AVAT is a program designed for advanced auditory-visual attention training, aimed at enhancing attention and cognitive processes in individuals with chronic tinnitus. This project is part of a research study conducted by the Audiology Department at the University of Medical Sciences, Iran. The study investigates the effects of various attention training exercises on chronic tinnitus patients using auditory and visual stimuli to evaluate their impact on cognitive and brainwave activity.
 
 ## Features:
 - **User Authentication**: Users are required to create an account and log in to access attention training exercises (from new_user.php).
-- **MySQL Database Integration**: The program connects to a MySQL database for user data management.
+- **MySQL Database Integration**: The program connects to a MySQL database for user data management. User information, progress, and training results are stored and managed efficiently.
 - **Responsive Design**: The application is optimized for both desktop and mobile devices, providing a smooth experience across various screen sizes.
+- **Attention Training Exercises**: The program offers a variety of attention training tasks designed to engage users' auditory and visual processing abilities.
 
 ## Requirements:
 - PHP 7.0 or higher
@@ -17,7 +18,16 @@ AVAT is a program designed for advanced auditory-visual attention training, aime
     ```bash
     git clone https://github.com/hnamvar/TAT.git
     ```
-2. Create a MySQL database and configure the `Config/config.php` file with your database credentials.
+2. Create a MySQL database and configure the `Config/config.php` file with your database credentials. You will need to specify the database username, password, database name, and connection port. The following is an example configuration:
+    ```php
+    $db_path = mysqli_connect('localhost', 'Database_User', 'Database_Password', 'database_Name', 'Connection_Port');
+    ```
 3. Upload the project files to your web server.
 4. Ensure your server is set up to run PHP and supports MySQL.
 5. Run the application by accessing it through your web browser.
+
+## Research Context:
+This program is part of a research project conducted within the Audiology Department at the University of Medical Sciences, Iran. The research focuses on advanced auditory-visual attention training for patients suffering from chronic tinnitus. The aim of the program is to investigate how different attention exercises impact brainwave activity and cognitive performance in tinnitus patients. The findings of this study are being analyzed for their potential to inform new rehabilitation strategies for chronic tinnitus.
+
+## License:
+This project is part of an academic research initiative and is free to use for educational and research purposes. For any commercial use, please contact the research team.
