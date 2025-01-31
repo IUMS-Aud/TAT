@@ -1,6 +1,6 @@
 # AVAT
 
-AVAT is a program designed for advanced auditory-visual attention training, aimed at enhancing attention and cognitive processes in individuals with chronic tinnitus. This project is part of a research study conducted by the Audiology Department at the University of Medical Sciences, Iran. The study investigates the effects of various attention training exercises on chronic tinnitus patients using auditory and visual stimuli to evaluate their impact on cognitive and brainwave activity.
+AVAT is a program designed for advanced auditory-visual attention training, aimed at enhancing attention and cognitive processes in individuals with chronic tinnitus. This project is part of a research study conducted by the Audiology Department at the University of Medical Sciences, Iran.
 
 ## Features:
 - **User Authentication**: Users are required to create an account and log in to access attention training exercises (from new_user.php).
@@ -25,9 +25,6 @@ AVAT is a program designed for advanced auditory-visual attention training, aime
 3. Upload the project files to your web server.
 4. Ensure your server is set up to run PHP and supports MySQL.
 5. Run the application by accessing it through your web browser.
-
-## Research Context:
-This program is part of a research project conducted within the Audiology Department at the University of Medical Sciences, Iran. The research focuses on advanced auditory-visual attention training for patients suffering from chronic tinnitus. The aim of the program is to investigate how different attention exercises impact brainwave activity and cognitive performance in tinnitus patients. The findings of this study are being analyzed for their potential to inform new rehabilitation strategies for chronic tinnitus.
 
 ## License:
 This project is part of an academic research initiative and is free to use for educational and research purposes. For any commercial use, please contact the research team.
