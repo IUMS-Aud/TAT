@@ -26,5 +26,14 @@ AVAT is a program designed for advanced auditory-visual attention training, aime
 4. Ensure your server is set up to run PHP and supports MySQL.
 5. Run the application by accessing it through your web browser.
 
-## License:
-This project is part of an academic research initiative and is free to use for educational and research purposes. For any commercial use, please contact the research team.
+## License  
+This project is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+
+You are free to:  
+- **Share** – copy and redistribute the material in any medium or format.  
+- **Adapt** – remix, transform, and build upon the material for any purpose, including commercial use.  
+
+Under the following terms:  
+- **Attribution** – You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+
+There are no additional restrictions – You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
